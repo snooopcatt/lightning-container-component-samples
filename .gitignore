@@ -12,3 +12,8 @@ selenium-client-jars/
 test/artifacts
 export/
 IlluminatedCoud/rm
+**/lcc-sample-scheduler/lib
+**/lcc_sample_scheduler/fonts
+
+**/bundle.js
+**/bundle.css
