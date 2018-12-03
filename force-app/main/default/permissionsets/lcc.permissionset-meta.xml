@@ -30,4 +30,8 @@
         <tab>React_Apex</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+    <tabSettings>
+        <tab>Bryntum_Scheduler</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>

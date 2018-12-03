@@ -79,7 +79,7 @@ let resources = [
 
 let scheduler = new Scheduler({
     appendTo         : 'container',
-    minHeight        : '20em',
+    minHeight        : '500px',
     resources        : resources,
     events           : events,
     startDate        : new Date(2017, 0, 1, 6),

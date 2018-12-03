@@ -12,7 +12,7 @@
     <tabs>React_Apex</tabs>
     <tabs>ECMAScript_5</tabs>
     <tabs>D3</tabs>
-    <tabs>Scheduler</tabs>
+    <tabs>Bryntum_Scheduler</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LCC_Samples_UtilityBar</utilityBar>
 </CustomApplication>
